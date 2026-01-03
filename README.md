@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mafuz</h1>
 <h3 align="center">A passionate coder from Bangladesh</h3>
 
-<img align="right" alt="coding" hight="350" widht="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" hight="300" widht="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Web development**
 
