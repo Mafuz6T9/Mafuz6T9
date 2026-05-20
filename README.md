@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" hight="300" widht="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning ** MERN Stack development**
 
 - 📫 How to reach me **imafuzul445@gmail.com**
 
